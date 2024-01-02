@@ -76,4 +76,5 @@ img {
     bottom: 0px;
     z-index: -1;
     opacity: 50%;
+    object-fit: cover;
 }
